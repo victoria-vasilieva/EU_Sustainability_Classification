@@ -20,10 +20,7 @@ These factors represent critical policy areas that effectively distinguish susta
 
 
 
-
-
-
-<Figure size 1000x400 with 1 Axes><img width="844" height="458" alt="image" src="https://github.com/user-attachments/assets/1b8f5a96-b992-4dec-9e1a-32dff8566322" />
+<img width="785" height="382" alt="Image" src="https://github.com/user-attachments/assets/3981ff68-05af-43a6-8968-232ec5ecfe56" />
 
 
 # Conclusions 
