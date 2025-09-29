@@ -1,29 +1,23 @@
 # Executive Summary: Key Drivers of Sustainability Performance
 
-Thanks to the strong interpretability of the Random Forest model, we can confidently evaluate which factors contribute most to sustainability success. 
-The chart highlights the top five critical factors:
+Thanks to the strong interpretability of the Random Forest model, we can confidently evaluate which factors contribute most to sustainability success. The chart highlights the top five critical factors:
 
-- Leadership in digital transformation
-
-- Strong governance characterized by low corruption 
-
-- Effective rule of law
-
-- Skilled adult workforce through education and training
-
-- Commitment to renewable energy adoption
-
+- Leadership in digital transformation (`sdg9_digital`) driving innovation and growth  
+- Commitment to renewable energy adoption (`sdg7_eurenew`) promoting environmental sustainability  
+- Strong governance characterized by low corruption perception (`sdg16_cpi`)  
+- Effective rule of law supporting institutional strength (`sdg16_rsf`)  
+- Economic prosperity reflected by income levels (`sdg8_income`)
 
 These factors represent critical policy areas that effectively distinguish sustainability leaders from lower tiers.
 
+| Rank | Factor         | Importance Score | Interpretation                                         |
+|-------|----------------|------------------|--------------------------------------------------------|
+| 1     | sdg9_digital   | 0.1770           | Digital adoption drives innovation and economic growth |
+| 2     | sdg7_eurenew   | 0.1019           | Renewable energy adoption promotes sustainability       |
+| 3     | sdg16_cpi      | 0.1006           | Lower corruption corresponds to better governance       |
+| 4     | sdg16_rsf      | 0.0831           | The rule of law underpins institutional strength        |
+| 5     | sdg8_income    | 0.0774           | Income levels reflect economic prosperity                |
 
-| Rank | Factor        | Importance Score | Interpretation                        |
-|-------|----------------|------------------|-------------------------------------|
-| 1     | sdg9_digital   | 0.1874           | Digital adoption drives innovation and growth |
-| 2     | sdg16_cpi      | 0.1580           | Lower corruption corresponds to better governance |
-| 3     | sdg16_rsf      | 0.0887           | The rule of law underpins institutional strength |
-| 4     | sdg4_adult     | 0.0842           | Adult education fosters social and economic progress |
-| 5     | sdg7_eurenew   | 0.0804           | Renewable energy adoption promotes environmental sustainability |
 
 
 
@@ -36,9 +30,10 @@ These factors represent critical policy areas that effectively distinguish susta
 
 ## 🌱 Key Drivers of Sustainability
 
-- Digital adoption (`sdg9_digital`) is the most important feature, showing the role of digital infrastructure and innovation.  
+- Digital adoption (`sdg9_digital`) is the most important feature, highlighting the role of digital infrastructure and innovation.  
+- Renewable energy adoption (`sdg7_eurenew`) plays a crucial role in environmental sustainability.  
 - Governance metrics, such as corruption perception (`sdg16_cpi`) and rule of law (`sdg16_rsf`), strongly influence sustainability outcomes.  
-- Adult education levels (`sdg4_adult`) and renewable energy adoption (`sdg7_eurenew`) also significantly contribute.
+- Economic prosperity, reflected by income levels (`sdg8_income`), also significantly contributes.
 
 ## 🌍 Multidimensional Progress
 
@@ -48,19 +43,20 @@ These factors represent critical policy areas that effectively distinguish susta
 ## 📋 Policy Recommendations
 
 - Prioritize digital transformation to accelerate sustainability progress.  
+- Invest in renewable energy infrastructure to support environmental goals.  
 - Strengthen governance transparency and accountability.  
-- Invest in education and renewable energy infrastructure to improve performance tiers.
+- Encourage economic development initiatives to improve income levels and sustainability performance.
 
 ## 🛤️ Pathways for Underperformers
 
-- Countries needing improvement should focus on 
+- Countries needing improvement should focus on:
 
-    - digital infrastructure
-    - governance reforms
-    - education
-    - green energy adoption
+    - digital infrastructure  
+    - renewable energy adoption  
+    - governance reforms  
+    - economic development
 
 ## 🔬 Foundation for Future Work
 
-- The current modeling and insights provide a solid base for deeper country-specific analysis.  
+- The current modeling and insights provide a solid foundation for deeper country-specific analysis.  
 - 🔎 Future studies could explore temporal dynamics, additional features, or use explainability tools to support decision-making.
