@@ -17,6 +17,8 @@ This project uses a **Random Forest machine learning model** to analyze key sust
 It identifies the most important drivers like digital transformation, governance, education, and renewable energy adoption.
 
 ---
+<img width="785" height="382" alt="Image" src="https://github.com/user-attachments/assets/3981ff68-05af-43a6-8968-232ec5ecfe56" />
+---
 
 ## 🎯 Business Goal
 - **Challenge**: Sustainability efforts often lack clear prioritization due to complex, interconnected factors.  
@@ -54,6 +56,15 @@ It identifies the most important drivers like digital transformation, governance
 - **[requirements.txt ](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/blob/main/requirements.txt)** – Python dependencies  
 
 ---
+
+## 📑 Data Sources
+
+- **Primary public sources:** Official EU and UN sustainability indicator datasets:
+    - [Eurostat Sustainable Development Indicators](https://ec.europa.eu/eurostat/web/sdi)
+    - [Europe Sustainable Development Report](https://eu-dashboards.sdgindex.org)
+- **Preprocessing:** This project uses [preprocessed data](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/blob/main/Data/eu_sdg_performance_data.csv) provided by the AI Institute for Europe to ensure quality and consistency across country-level indicators.
+- Data covers economic, social, environmental, and governance aspects, aligned to the United Nations Sustainable Development Goals (SDGs).
+- All datasets are open-access to support reproducibility and further research.
 
 ---
 
