@@ -40,9 +40,11 @@ It identifies the most important drivers like digital transformation, governance
 ---
 
 ## 📈 Results & Insights
-- Digital adoption, governance quality, and education are top drivers.  
-- Renewable energy uptake also a critical factor.  
-- Provides actionable insights for organizations to focus sustainability resources.
+Countries needing improvement should focus on:
+- Digital infrastructure
+- Renewable energy adoption
+- Governance reforms
+- Economic development
 
 ---
 
