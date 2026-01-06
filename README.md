@@ -51,7 +51,8 @@ Countries needing improvement should focus on:
 ## 📂 Repository Structure
 
 - **[Data](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/tree/main/Data)** – Sustainability datasets (CSV)  
-- **[Notebook/](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/tree/main/Notebook)** – Jupyter notebooks for data analysis and modeling  
+- **[Notebook/](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/tree/main/Notebook)** – Jupyter notebooks for data analysis and modeling
+- **[Non-Technical_Presentation](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/blob/main/Non-Technical_Auditory_Presentation.pdf)** – Presentation for non-technical audience (slides)
 - **[Policy_analysis/](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/tree/main/Policy_analysis)** – Sustainability policy insights  
 - **[use_case_documentation/](https://github.com/victoria-vasilieva/EU_Sustainability_Classification/tree/main/use_case_documentation)** – Screenshots related to the AI use case on the appliedAI Use Case Platform  
 - **README.md** – Project documentation (this file)  
